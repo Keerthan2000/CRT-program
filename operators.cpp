@@ -20,4 +20,4 @@ exp1 exp2 exp1&&exp2 exp1||exp2 !exp1
 		+=,-=,*=,/= //compound assignments
 		a+=b----->a=a+b
 	5) sizeof()	
-	    used to find the size of datatypes/literals/variables
+	    used to find the size of datatypes/literals/variables 
